@@ -1,0 +1,6 @@
+# Model config template
+# TODO: set architecture family (cnn/transformer/ssm)
+# TODO: set architecture name and variant (e.g., resnet50)
+# TODO: set pretrained/random init mode
+# TODO: set checkpoint path(s)
+# TODO: set feature extraction layer list
