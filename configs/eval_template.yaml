@@ -1,0 +1,6 @@
+# Eval config template
+# TODO: set single-crop and optional multi-crop policies
+# TODO: set robustness/crop-shift checks
+# TODO: set calibration metrics
+# TODO: set profiling switches (latency/memory)
+# TODO: set report output paths

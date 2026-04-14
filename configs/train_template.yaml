@@ -1,0 +1,7 @@
+# Train config template
+# TODO: set optimizer settings (fixed policy)
+# TODO: set lr schedule family (fixed policy)
+# TODO: set weight decay and EMA policy
+# TODO: set epoch/compute budget policy
+# TODO: set mixed precision and gradient settings
+# TODO: set seed and reproducibility flags

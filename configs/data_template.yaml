@@ -1,0 +1,6 @@
+# Data config template
+# TODO: set dataset root paths
+# TODO: set train/val split manifests
+# TODO: set class list source
+# TODO: set input resolutions list [160,192,224,256,320]
+# TODO: set augmentation policy (fixed across families)

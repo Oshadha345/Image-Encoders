@@ -1,0 +1,17 @@
+# Run manifest template
+run_id: TODO
+date: TODO
+model_family: TODO
+model_name: TODO
+resolution: TODO
+dataset_manifest: TODO
+config_hash: TODO
+git_hash: TODO
+seed: TODO
+hardware: TODO
+notes: TODO
+artifacts:
+  checkpoint: TODO
+  metrics: TODO
+  profiles: TODO
+  plots: TODO
